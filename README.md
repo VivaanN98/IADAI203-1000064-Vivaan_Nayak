@@ -32,8 +32,8 @@ Review the Storyboard for a step-by-step breakdown of the app's features.
 🛠️ Tools & Technologies    
 
 
-Figma – Prototyping
-Canva - Morphological Analysis, Storyboard & SCAMPER ideaboard
+**Figma** – Prototyping    
+**Canva** - Morphological Analysis, Storyboard & SCAMPER ideaboard
 
 ✨ Credits
 Developed by VIvaan Nayak, as part of the Summative Assignment.
