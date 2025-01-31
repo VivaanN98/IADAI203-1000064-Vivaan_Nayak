@@ -17,7 +17,9 @@ NeuroSync XR incorporates **9 key features**, including:
 - **Multiplayer & Social Interaction** – Supports real-time collaboration and gaming.  
 - **Adaptive UI & Smart Assistance** – Personalizes interface and interactions based on user behavior.
 
-## 📂 Project Structure  
+## 📂 Project Structure
+
+
 - **📁 Prototype/** → Contains **Figma files** for UI/UX design.  
 - **📁 Storyboard/** → Documents **development process & step-by-step interaction flow/storyboard**.  
 - **📁 Research/** → Includes **morphological analysis & SCAMPER**.  
