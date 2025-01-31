@@ -18,8 +18,6 @@ NeuroSync XR incorporates **9 key features**, including:
 - **Adaptive UI & Smart Assistance** – Personalizes interface and interactions based on user behavior.
 
 ## 📂 Project Structure
-
-
 - **📁 Prototype/** → Contains **Figma files** for UI/UX design.  
 - **📁 Storyboard/** → Documents **development process & step-by-step interaction flow/storyboard**.  
 - **📁 Research/** → Includes **morphological analysis & SCAMPER**.  
@@ -31,7 +29,9 @@ NeuroSync XR incorporates **9 key features**, including:
 Open the Figma prototype to explore the prototype.
 Review the Storyboard for a step-by-step breakdown of the app's features.
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies    
+
+
 Figma – Prototyping
 Canva - Morphological Analysis, Storyboard & SCAMPER ideaboard
 
