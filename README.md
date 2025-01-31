@@ -19,8 +19,8 @@ NeuroSync XR incorporates **9 key features**, including:
 
 ## 📂 Project Structure  
 - **📁 Prototype/** → Contains **Figma files** for UI/UX design.  
-- **📁 Storyboard/** → Documents **development process & step-by-step interaction flow**.  
-- **📁 Research/** → Includes **morphological analysis**.  
+- **📁 Storyboard/** → Documents **development process & step-by-step interaction flow/storyboard**.  
+- **📁 Research/** → Includes **morphological analysis & SCAMPER**.  
 - **📁 Assets/** → Contains icons, visuals, and wireframe sketches used in the prototype.  
 
 
